@@ -1,0 +1,195 @@
+
+h1{
+    text-align: center;
+    color: aliceblue;
+    font-size: 3.75rem;
+    
+}
+body{
+    background: url(yellow-watercolor-paper.jpg) ;
+}
+.cont{
+    display: flex ;
+    margin: 0 auto;
+    flex-wrap: wrap;
+    justify-content:space-between;
+    gap: 20px;
+    width: 1020px;
+    
+}
+.boxcont{
+width: 300px;
+height: 300px;
+background-color: white;
+padding: 15px;
+border-radius: 20px;
+}
+    
+
+h2{
+    text-align: center ;
+    color:#f1c50e;
+    font-size: 2em;
+}
+.text{
+    text-align: center;
+    
+}
+.lou{
+    text-align: center;
+    color: rgba(15, 15, 2, 0.029);
+    
+   
+}
+a:link{
+color: black;
+}
+@media screen and (max-width: 1600px){body{
+    background: url(yellow-watercolor-paper.jpg) ;
+    
+}
+h1{
+text-align: center;
+color: aliceblue;
+font-size: 3.75rem;
+margin: 50px;
+
+
+}
+.cont{
+display: flex ;
+margin: 0 auto;
+flex-wrap: wrap;
+justify-content:space-between;
+gap: 15px;
+width: 800px;
+
+
+}
+.boxcont{
+width: 230px;
+height: 250px;
+background-color: white;
+padding: 10px;
+border-radius: 20px;
+}
+h2{
+    text-align: center ;
+    color:#f1c50e;
+    font-size: 2em;
+}
+.text{
+    text-align: center;
+    
+}
+.lou{
+    text-align: center;
+    color: rgba(15, 15, 2, 0.029);
+    
+   
+}
+a:link{
+color: black;
+}
+
+}
+
+@media screen and (max-width: 1000px) {
+    body{
+        background: url(yellow-watercolor-paper.jpg) ;
+        
+}
+h1{
+    text-align: center;
+    color: aliceblue;
+    font-size: 3.75rem;
+
+}
+.cont{
+    display: flex ;
+    margin: 0 auto;
+    flex-wrap: wrap;
+    justify-content:space-between;
+    gap: 15px;
+    width: 520px;
+    padding:10px;
+    
+}
+.boxcont{
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    padding: 20px;
+    border-radius: 20px;
+    }
+    h2{
+        text-align: center ;
+        color:#f1c50e;
+        font-size: 2em;
+    }
+    .text{
+        text-align: center;
+        
+    }
+    .lou{
+        text-align: center;
+        color: rgba(15, 15, 2, 0.029);
+        
+       
+    }
+    a:link{
+    color: black;
+    }
+    
+
+}
+@media screen and ( max-width:600px ) {
+
+    h1{
+        text-align: center;
+        color: aliceblue;
+        font-size: 3.75rem;
+        
+    }
+    body{
+        background: url(yellow-watercolor-paper.jpg) ;
+    }
+    .cont{
+        display: flex ;
+        margin: 0 auto;
+        flex-wrap: wrap;
+        justify-content:space-between;
+        gap: 15px;
+        width: 300;
+        padding: 10px;
+        
+    }
+    .boxcont{
+    width: 250px;
+    height: 250px;
+    background-color: white;
+    padding: 20px;
+    border-radius: 20px;
+    }
+        
+    
+    h2{
+        text-align: center ;
+        color:#f1c50e;
+        font-size: 2em;
+    }
+    .text{
+        text-align: center;
+        
+    }
+    .lou{
+        text-align: center;
+        color: rgba(15, 15, 2, 0.029);
+        
+       
+    }
+    a:link{
+    color: black;
+    }
+    
+}
